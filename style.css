@@ -1,0 +1,17 @@
+#image{
+    width: 100%;
+    height: 500px;
+}
+
+.campus_life_mainDiv{
+    border: 1px solid lightgray;
+}
+
+.campus_life_mainDiv img{
+    width: 100%;
+}
+
+
+.campus_life_mainDivh5,.campus_life_mainDiv p{
+    margin: 20px;
+}
